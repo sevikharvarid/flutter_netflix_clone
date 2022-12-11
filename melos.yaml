@@ -6,3 +6,7 @@ packages:
   - resources/**
   - shared/**
   - "*"
+
+command:
+  bootstrap:
+    usePubspecOverrides: true
